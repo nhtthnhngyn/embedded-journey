@@ -1,11 +1,9 @@
 # Week 1 - Weekly Plan
 
-## Goals
-- Understand and be able to write simple C programs
-- Understand differennces between C and C++ -> Why do embedded system prioritize C?
+## Goals 
+- Understand differennces between C and C++ -> Why do embedd system prioritize C? and know how to compute simple C programs
 - Use git commands to keep track of the journey
-- Understand version control and branching to handle production-level tasks
-- Enhance README quality
+- Understand the importance of upgrading README quality
 - Learn Basic DV workflow concept: compile/run tests = "Pass/fail culture"
   
 ## Tasks
