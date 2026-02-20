@@ -1,1 +1,2 @@
 # embedded-journey
+My journey to learn ic-design/embedded system as a first year electronic system engineering students. My name is Nhat Thanh Nguyen, I am currently studying at university of Regina, Saskatchewan, Canada. My goal after this journey is to build practical projects, understand fundamentals of this field and apply to be a research assistant in related projects at my university which all ultimately contribute to my application to the application for a Master degree in top international engineering schools.
