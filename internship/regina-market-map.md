@@ -1,0 +1,1 @@
+**Regina** job market is highly related to agrculture, power and mining. Some technical jobs with in my target are rare and often based on ***embedded systems, Iot***. Vecima is the crown jewel in Regina, Saskatchewan regarding FPGA. These practical opportunities could also be found in university's lab,
