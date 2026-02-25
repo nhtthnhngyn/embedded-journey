@@ -1,1 +1,6 @@
-**Regina** job market is highly related to agrculture, power and mining. Some technical jobs with in my target are rare and often based on ***embedded systems, Iot***. Vecima is the crown jewel in Regina, Saskatchewan regarding FPGA. These practical opportunities could also be found in university's lab,
+1. *Hardware Design Verification*: **WOLF ADVANCED TECHNOLOGY** (with relocation)
+2. *Student Electrical *: **DYNAMO** (allow student)
+3. *Electrical Technologist*: **PHASOR ENGINEERING** (Field based)
+4. *Embedded Software Developer*: **SCALIAN** (team in Montreal)
+5. *Embedded C Developer*: **AMARIS CONSULTING** (internship-level)
+6. *Embedded & Desktop Linux Field Engineer*: **CANONICAL** (Linux kernel)
