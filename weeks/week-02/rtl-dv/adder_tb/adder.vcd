@@ -1,0 +1,154 @@
+$date
+	Mon Mar  2 17:13:52 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module adder_tb $end
+$var wire 4 ! sum [3:0] $end
+$var wire 1 " cout $end
+$var reg 4 # a [3:0] $end
+$var reg 4 $ b [3:0] $end
+$var reg 1 % cin $end
+$var reg 4 & error [3:0] $end
+$scope module dut $end
+$var wire 4 ' a [3:0] $end
+$var wire 4 ( b [3:0] $end
+$var wire 1 % cin $end
+$var wire 4 ) sum [3:0] $end
+$var wire 1 " cout $end
+$var parameter 32 * WIDTH $end
+$upscope $end
+$scope task check $end
+$var reg 5 + expec [4:0] $end
+$var reg 4 , ta [3:0] $end
+$var reg 4 - tb [3:0] $end
+$var reg 1 . tc $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 *
+$end
+#0
+$dumpvars
+0.
+b0 -
+b0 ,
+b0 +
+b0 )
+b0 (
+b0 '
+b0 &
+0%
+b0 $
+b0 #
+0"
+b0 !
+$end
+#10000
+1"
+b100 !
+b100 )
+b1010 $
+b1010 (
+b1010 #
+b1010 '
+b10100 +
+b1010 -
+b1010 ,
+#20000
+b1111 !
+b1111 )
+1%
+b1111 $
+b1111 (
+b1111 #
+b1111 '
+b11111 +
+1.
+b1111 -
+b1111 ,
+#30000
+0"
+b110 !
+b110 )
+b1 $
+b1 (
+b100 #
+b100 '
+#40000
+1"
+b1 !
+b1 )
+b1101 $
+b1101 (
+b11 #
+b11 '
+#50000
+0"
+b1000 !
+b1000 )
+b10 $
+b10 (
+b101 #
+b101 '
+#60000
+b100 !
+b100 )
+1"
+b110 $
+b110 (
+b1101 #
+b1101 '
+#70000
+b1010 !
+b1010 )
+b1100 $
+b1100 (
+#80000
+0"
+b1011 !
+b1011 )
+0%
+b101 $
+b101 (
+b110 #
+b110 '
+#90000
+b1100 !
+b1100 )
+b111 $
+b111 (
+b101 #
+b101 '
+#100000
+b1 !
+b1 )
+1"
+b10 $
+b10 (
+b1111 #
+b1111 '
+#110000
+b1101 !
+b1101 )
+0"
+b101 $
+b101 (
+b1000 #
+b1000 '
+#120000
+b1011 !
+b1011 )
+1"
+1%
+b1101 $
+b1101 (
+b1101 #
+b1101 '
+#130000
