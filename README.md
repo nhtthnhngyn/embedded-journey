@@ -6,4 +6,6 @@ My journey to learn ic-design/embedded system as a first year electronic system 
 My main goals per week in this journey:
 
 1. ***Week-1***: Understand C programming and being able to use Git for version control and project management
+2. ***Week-2***: Understand Iverilog, GTKWave and the importance of testbench. Using some C techniques to complete bit manipulation problems
+3. ***Week-3**: Write a Verilog FSM and build Nand2Tetrics project of basic gates. Solve HDLBits problem in gates and vectors section
 
